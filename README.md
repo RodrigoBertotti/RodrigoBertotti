@@ -10,24 +10,10 @@ Experience with:
   
   - Node.js - Backend development
   
+  - Firestore | Firestore Security Rules | Firebase Realtime | Firebase Security Rules | Firebase Authentication | Firebase Remote Config | Firebase Crashlytics | Firebase Cloud Messaging _(FCM)_ | Firebase Dynamic Links
+  
   - MySQL | PostgreSQL
-  
-  - Firebase
-  
-    - Firestore | Firestore Security Rules
-    
-    - Firebase Realtime | Firebase Security Rules
-    
-    - Firebase Authentication
-    
-    - Firebase Remote Config
-    
-    - Firebase Crashlytics
-    
-    - Firebase Cloud Messaging (FCM)
-    
-    - Firebase Dynamic Links
-
+ 
 - :man_student:	Graduated in [Computer Science](https://wisetap.com/img/home/diploma.jpg)
 
 - :large_orange_diamond: [StackOverflow](https://stackoverflow.com/users/4508758) _Reputation: Over 4,600_
