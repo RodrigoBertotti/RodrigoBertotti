@@ -10,7 +10,7 @@ Experience with:
   
   - Node.js - Backend development
   
-  - Firestore | Firestore Security Rules | Firebase Realtime | Firebase Security Rules | Firebase Authentication | Firebase Remote Config | Firebase Crashlytics | Firebase Cloud Messaging _(FCM)_ | Firebase Dynamic Links
+  - Firestore | Firestore Security Rules | Firebase Realtime | Firebase Security Rules | Firebase Authentication | Firebase Remote Config | Firebase Crashlytics | Firebase Cloud Messaging _(FCM)_ | Firebase Dynamic Links | Firebase Hosting | Firebase Storage | Firebase Cloud Functions
   
   - MySQL | PostgreSQL
  
