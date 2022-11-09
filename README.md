@@ -1,9 +1,9 @@
-Hi there :raising_hand_man: I'm [Rodrigo João Bertotti](https://wisetap.com/en), Full-Stack App developer
+Hi there :raising_hand_man: I'm [Rodrigo João Bertotti](https://wisetap.com/en), Full-Stack Flutter developer
 
 I consider myself a developer who always thinks ahead,
 considering how the new feature will behave in different scenarios, so 
-we can scale the project avoiding unexpected behaviors
-  
+we can scale the project avoiding unexpected behaviors.
+
 - :man_student:	Graduated in [Computer Science](https://wisetap.com/img/home/diploma.jpg)
 
 - :heavy_check_mark: [Certification](https://arc.dev/@rodrigobertotti) on Arc.dev
@@ -14,6 +14,8 @@ we can scale the project avoiding unexpected behaviors
 
 - :orange_book: [My Blog](https://wisetap.com/en/blog)
 
+Technologies:
+
 - :large_blue_diamond: Flutter - App Development
   
 - :large_blue_diamond: Node.js - Backend development
@@ -23,6 +25,8 @@ we can scale the project avoiding unexpected behaviors
 - :large_blue_diamond: MySQL | PostgreSQL
 
 <!-- - :man_technologist: [My GitHub Projects](https://github.com/WiseTap) -->
+
+More:
 
 - :envelope: rodrigo@wisetap.com
 
