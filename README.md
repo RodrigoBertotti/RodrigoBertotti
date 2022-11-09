@@ -3,22 +3,24 @@ Hi there :raising_hand_man: I'm [Rodrigo João Bertotti](https://wisetap.com/en)
 I consider myself a developer who always thinks ahead,
 considering how the new feature will behave in different scenarios, so 
 we can scale the project avoiding unexpected behaviors
-
-Experience with:
-
-  - Flutter - App Development
   
-  - Node.js - Backend development
-  
-  - Firestore | Firestore Security Rules | Firebase Realtime | Firebase Security Rules | Firebase Authentication | Firebase Remote Config | Firebase Crashlytics | Firebase Cloud Messaging _(FCM)_ | Firebase Dynamic Links | Firebase Hosting | Firebase Storage | Firebase Cloud Functions
-  
-  - MySQL | PostgreSQL
- 
 - :man_student:	Graduated in [Computer Science](https://wisetap.com/img/home/diploma.jpg)
+
+- :heavy_check_mark: [Certification](https://arc.dev/@rodrigobertotti) on Arc.dev
+
+- :thumbsup: [Recommendation](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) about my work
 
 - :large_orange_diamond: [StackOverflow](https://stackoverflow.com/users/4508758) _Reputation: Over 4,600_
 
 - :orange_book: [My Blog](https://wisetap.com/en/blog)
+
+- :large_blue_diamond: Flutter - App Development
+  
+- :large_blue_diamond: Node.js - Backend development
+  
+- :large_blue_diamond: Firestore | Firestore Security Rules | Firebase Realtime | Firebase Security Rules | Firebase Authentication | Firebase Remote Config | Firebase Crashlytics | Firebase Cloud Messaging _(FCM)_ | Firebase Dynamic Links | Firebase Hosting | Firebase Storage | Firebase Cloud Functions
+  
+- :large_blue_diamond: MySQL | PostgreSQL
 
 <!-- - :man_technologist: [My GitHub Projects](https://github.com/WiseTap) -->
 
