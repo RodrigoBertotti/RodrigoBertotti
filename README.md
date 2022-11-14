@@ -1,4 +1,6 @@
-Hi there :raising_hand_man: I'm [Rodrigo João Bertotti](https://wisetap.com/en), Full-Stack Flutter developer
+I'm [Rodrigo João Bertotti](https://wisetap.com/en), Full-Stack Flutter developer
+
+:heart: I love to work remotely as freelancer
 
 I consider myself a developer who always thinks ahead,
 considering how the new feature will behave in different scenarios, so 
@@ -26,7 +28,7 @@ Technologies:
 
 <!-- - :man_technologist: [My GitHub Projects](https://github.com/WiseTap) -->
 
-More:
+Hire developer online! This is my contact:
 
 - :envelope: rodrigo@wisetap.com
 
