@@ -1,10 +1,15 @@
-I'm [Rodrigo João Bertotti](https://wisetap.com/en), Full-Stack Flutter developer
+Hire a developer online for your App to make your startup grow! Send me an [email](mailto:rodrigo@wisetap.com) and I will be glad to help you :)
 
-:heart: I love to work remotely as freelancer
+:raising_hand_man: I'm **[Rodrigo João Bertotti](https://wisetap.com/en)**, Full-Stack Flutter developer
 
-I consider myself a developer who always thinks ahead,
-considering how the new feature will behave in different scenarios, so 
-we can scale the project avoiding unexpected behaviors.
+:heart: I love to work remotely as freelancer.
+
+:computer: **Working Experience:**
+- **[FotoFinish](https://www.fotofinish.com)** - Since January 2022
+- **[Vets](https://vets.com.br)** - Since half of 2019
+- _Plus: Other personal projects_
+
+**Achievements:**
 
 - :man_student:	Graduated in [Computer Science](https://wisetap.com/img/home/diploma.jpg)
 
@@ -16,7 +21,7 @@ we can scale the project avoiding unexpected behaviors.
 
 - :orange_book: [My Blog](https://wisetap.com/en/blog)
 
-Technologies:
+**Technologies I'm used to:**
 
 - :large_blue_diamond: Flutter - App Development
   
@@ -28,8 +33,8 @@ Technologies:
 
 <!-- - :man_technologist: [My GitHub Projects](https://github.com/WiseTap) -->
 
-Hire developer online! This is my contact:
+**localhost:**
 
-- :envelope: rodrigo@wisetap.com
+- :envelope: My contact email: rodrigo@wisetap.com
 
 - :round_pushpin: Brazil
