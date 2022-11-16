@@ -1,5 +1,3 @@
-Hire a developer online for your App to make your startup grow! Send me an [email](mailto:rodrigo@wisetap.com) and I will be glad to help you :)
-
 :raising_hand_man: I'm **[Rodrigo João Bertotti](https://wisetap.com/en)**, Full-Stack Flutter developer
 
 :heart: I love to work remotely as freelancer.
