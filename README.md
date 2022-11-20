@@ -1,4 +1,4 @@
-:raising_hand_man: I'm **[Rodrigo João Bertotti](https://wisetap.com/en)**, Full-Stack Flutter developer
+:raising_hand_man: I'm **[Rodrigo João Bertotti](https://wisetap.com/en)**, Developer for Apps (Full-Stack Flutter developer)
 
 :heart: I love to work remotely as freelancer. I'm not part of an agency, I work independently
 
