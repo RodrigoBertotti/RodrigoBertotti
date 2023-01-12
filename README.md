@@ -3,8 +3,8 @@
 :heart: I love to work remotely as freelancer. I'm not part of an agency, I work independently
 
 :computer: **Working Experience:**
-- **[FotoFinish](https://www.fotofinish.com)** - Since January 2022
-- **[Vets](https://vets.com.br)** - Since half of 2019
+- **[FotoFinish](https://www.fotofinish.com)** - In 2022
+- **[Vets](https://vets.com.br)** - 2019 until now
 - _Plus: Other personal projects_
 
 **Achievements:**
