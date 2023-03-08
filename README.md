@@ -19,7 +19,7 @@
 
 - :orange_book: [My Blog](https://wisetap.com/en/blog)
 
-**Technologies I'm working with / I've worked with:**
+**Technologies I'm working with:**
 
 - :large_blue_diamond: Flutter - App Development
   
