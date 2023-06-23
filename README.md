@@ -28,7 +28,7 @@ Able to take part-time jobs independently as a freelancer
 
 - :orange_book: [My Blog](https://wisetap.com/en/blog)
 
-- :star: GitHub [repositories](https://github.com/RodrigoBertotti?tab=repositories) 
+- :star: GitHub [repositories](https://github.com/RodrigoBertotti?tab=repositories&q=&type=&language=&sort=stargazers) 
 
 **Technologies I'm working with:**
 
