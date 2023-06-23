@@ -22,7 +22,7 @@ Able to take part-time jobs independently as a freelancer
 
 - :man_student:	Graduated in [Computer Science](https://wisetap.com/img/home/diploma.jpg)
 
-- :heavy_check_mark: [Certification](https://arc.dev/@rodrigobertotti) on Arc.dev
+- :heavy_check_mark: [Arc Certified Remote Developer](https://arc.dev/@rodrigobertotti)
 
 - :large_orange_diamond: [StackOverflow](https://stackoverflow.com/users/4508758) _Reputation: Over 5,000_
 
