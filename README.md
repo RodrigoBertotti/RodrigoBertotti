@@ -1,11 +1,22 @@
 :raising_hand_man: I'm **[Rodrigo João Bertotti](https://wisetap.com/en)**, Developer for Apps (Full-Stack Flutter developer)
 
-:heart: I love to work remotely as freelancer. I'm not part of an agency, I work independently
+Able to take part-time jobs independently as a freelancer
 
-:computer: **Working Experience:**
-- **[FotoFinish](https://www.fotofinish.com)** - In 2022
+**Working Experience:**
 - **[Vets](https://vets.com.br)** - 2019 until now
+- **Key Plays** - now
+- **[FotoFinish](https://www.fotofinish.com)** - In 2022
 - _Plus: Other personal projects_
+
+**Testimonials**
+
+> _“I had the pleasure of working with Rodrigo when we hired him at FotoFinish to build out our Android and iOS mobile applications. Rodrigo is an absolute dream to work with - he is very experienced and highly skilled in Dart/Flutter, takes initiative, is an excellent communicator. He is efficient and produces world class work. I recommend Rodrigo with no hesitation!”_
+
+:small_blue_diamond:	[Daniel](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) | Project Manager at fotofinish.com 
+
+> _"Rodrigo is a very well rounded programmer, with great logic, organization and communication skills. Will definitely hire him again for our projects!"_
+
+:small_blue_diamond:	[Eduardo](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) | Co-Founder of vets.com.br 
 
 **Achievements:**
 
@@ -13,15 +24,15 @@
 
 - :heavy_check_mark: [Certification](https://arc.dev/@rodrigobertotti) on Arc.dev
 
-- :thumbsup: [Recommendation](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) about my work
-
-- :large_orange_diamond: [StackOverflow](https://stackoverflow.com/users/4508758) _Reputation: Over 4,600_
+- :large_orange_diamond: [StackOverflow](https://stackoverflow.com/users/4508758) _Reputation: Over 5,000_
 
 - :orange_book: [My Blog](https://wisetap.com/en/blog)
 
+- :star: GitHub [repositories](https://github.com/RodrigoBertotti?tab=repositories) 
+
 **Technologies I'm working with:**
 
-- :large_blue_diamond: Flutter - App Development
+- :large_blue_diamond: Flutter - Android, iOS and WebApp Development
   
 - :large_blue_diamond: Node.js - Backend development
   
@@ -31,8 +42,6 @@
 
 <!-- - :man_technologist: [My GitHub Projects](https://github.com/WiseTap) -->
 
-**localhost:**
+**My personal email:**
 
-- :envelope: My contact email: rodrigo@wisetap.com
-
-- :round_pushpin: Brazil
+- :envelope: rodrigo@wisetap.com
