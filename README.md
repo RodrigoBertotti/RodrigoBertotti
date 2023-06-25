@@ -10,13 +10,13 @@ Able to take part-time jobs independently as a freelancer
 
 **Testimonials**
 
-> _“I had the pleasure of working with Rodrigo when we hired him at FotoFinish to build out our Android and iOS mobile applications. Rodrigo is an absolute dream to work with - he is very experienced and highly skilled in Dart/Flutter, takes initiative, is an excellent communicator. He is efficient and produces world class work. I recommend Rodrigo with no hesitation!”_
+_“I had the pleasure of working with Rodrigo when we hired him at FotoFinish to build out our Android and iOS mobile applications. Rodrigo is an absolute dream to work with - he is very experienced and highly skilled in Dart/Flutter, takes initiative, is an excellent communicator. He is efficient and produces world class work. I recommend Rodrigo with no hesitation!”_
+  
+> [Daniel's testimonial](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) | Project Manager at fotofinish.com
 
-:small_blue_diamond:	[Daniel](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) | Project Manager at fotofinish.com 
+_"Rodrigo is a very well rounded programmer, with great logic, organization and communication skills. Will definitely hire him again for our projects!"_
 
-> _"Rodrigo is a very well rounded programmer, with great logic, organization and communication skills. Will definitely hire him again for our projects!"_
-
-:small_blue_diamond:	[Eduardo](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) | Co-Founder of vets.com.br 
+> [Eduardo's testimonial](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) | Co-Founder of vets.com.br
 
 **Achievements:**
 
