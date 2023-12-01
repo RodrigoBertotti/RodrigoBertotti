@@ -1,6 +1,6 @@
 :raising_hand_man: I'm **[Rodrigo João Bertotti](https://wisetap.com/en)**, Developer for Apps (Full-Stack Flutter developer)
 
-Able to take part-time jobs independently as a freelancer
+Able to take part-time jobs independently as a freelancer: rodrigo@wisetap.com
 
 **Working Experience:**
 - **[Vets](https://vets.com.br)** - 2019 until now
