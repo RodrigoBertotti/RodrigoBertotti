@@ -1,6 +1,6 @@
-:raising_hand_man: I'm **[Rodrigo João Bertotti](https://wisetap.com/en)**, Firebase, Flutter, Node.js and SQL Developer
+:raising_hand_man: I'm Rodrigo João Bertotti, Firebase, Flutter, Node.js and SQL Developer
 
-Contact: rodrigo@wisetap.com
+Contact: **rodrigo@wisetap.com**
 
 **Working Experience:**
 - **[Vets](https://vets.com.br)** - 2019 until now
