@@ -3,10 +3,10 @@
 Contact: **rodrigo@wisetap.com**
 
 **Working Experience:**
-- **[Vets](https://vets.com.br)** - 2019 until now
-- **Key Plays** - now
-- **[FotoFinish](https://www.fotofinish.com)** - In 2022
-- _Plus: Other personal projects_
+- **[Vets](https://vets.com.br)** with Eduardo - 2019 until now (giving support in case is needed)
+- **Key Plays** - 2023 until now (giving support in case is needed)
+- **[FotoFinish](https://www.fotofinish.com)** with Daniel - In 2022
+- _Plus: Other personal projects available on my GitHub and elsewhere_
 
 **Testimonials**
 
