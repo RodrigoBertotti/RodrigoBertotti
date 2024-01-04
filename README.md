@@ -14,7 +14,7 @@ _“I had the pleasure of working with Rodrigo when we hired him at FotoFinish t
   
 > [Daniel's testimonial](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) | Project Manager at fotofinish.com
 
-🎥 **[Check also the video](https://drive.google.com/file/d/1ovMVyCXH_JcQuKQLMVYdJhwTyERrEmyE/view)** from Daniel's best friend, Ariel Helwani, the most important MMA reporter in the world (authorized by himself to share)
+🎥 **[Check also the video](https://drive.google.com/file/d/1ovMVyCXH_JcQuKQLMVYdJhwTyERrEmyE/view)** from Daniel's best friend, Ariel Helwani, the most important MMA journalist in the world (video authorized by himself to share)
 
 _"Rodrigo is a very well rounded programmer, with great logic, organization and communication skills. Will definitely hire him again for our projects!"_
 
