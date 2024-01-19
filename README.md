@@ -1,3 +1,5 @@
+Fixing the root of the problem is a lot more important than showing the result the client wants to see
+
 :raising_hand_man: I'm Rodrigo João Bertotti, Firebase, Flutter, Node.js and SQL Developer
 
 Contact: **rodrigo@wisetap.com**
