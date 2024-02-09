@@ -2,8 +2,6 @@ Fixing the root of the problem is a lot more important than showing the result t
 
 :raising_hand_man: I'm Rodrigo João Bertotti, Firebase, Flutter, Node.js and SQL Developer
 
-Contact: **rodrigo@wisetap.com**
-
 **Working Experience:**
 - **[Vets](https://vets.com.br)** with Eduardo - 2019 until now (giving support in case is needed)
 - **Key Plays** - 2023 until now (giving support in case is needed)
@@ -46,6 +44,6 @@ _"Rodrigo is a very well rounded programmer, with great logic, organization and 
 
 <!-- - :man_technologist: [My GitHub Projects](https://github.com/WiseTap) -->
 
-**My personal email:**
+**Email:**
 
 - :envelope: rodrigo@wisetap.com
