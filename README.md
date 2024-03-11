@@ -36,4 +36,4 @@ _"Rodrigo is a very well rounded programmer, with great logic, organization and 
 
 **Email:**
 
-- :envelope: rodrigo@wisetap.com
+- :envelope: digao520d@gmail.com
