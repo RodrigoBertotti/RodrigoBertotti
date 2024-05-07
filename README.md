@@ -1,6 +1,6 @@
 I build Apps and servers for Startups and I contribute to open-source projects so other developers can do the same
 
-I'm an independent freelancer, I'm not associated with an agency
+I'm an independent freelancer, I'm not associated with any agency, WiseTap.com is my own domain
 
 **Testimonials**
 
