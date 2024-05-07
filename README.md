@@ -1,5 +1,7 @@
 I build Apps and servers for Startups and I contribute to open-source projects so other developers can do the same
 
+I'm an independent freelancer, I'm not associated with an agency
+
 **Testimonials**
 
 _“I had the pleasure of working with Rodrigo when we hired him at FotoFinish to build out our Android and iOS mobile applications. Rodrigo is an absolute dream to work with - he is very experienced and highly skilled in Dart/Flutter, takes initiative, is an excellent communicator. He is efficient and produces world class work. I recommend Rodrigo with no hesitation!”_
