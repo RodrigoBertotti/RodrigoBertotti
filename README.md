@@ -1,5 +1,7 @@
 I build Apps and servers for Startups and I contribute to open-source projects so other developers can do the same
 
+📹 **[Check my Portfolio in video](https://rodrigo.wisetap.com?from=github)**
+
 I'm an independent freelancer, I'm **not** associated with any agency, WiseTap.com is my own domain
 
 **Testimonials**
