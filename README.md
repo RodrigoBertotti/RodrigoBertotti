@@ -20,15 +20,17 @@ _"Rodrigo is a very well rounded programmer, with great logic, organization and 
 
 **Achievements:**
 
+- :star: **Awesome GitHub [repositories](https://github.com/RodrigoBertotti?tab=repositories&q=&type=&language=&sort=stargazers)** :star:
+
 - :man_student:	Graduated in [Computer Science](https://wisetap.com/img/home/diploma.jpg)
 
 - :heavy_check_mark: [Arc Certified Remote Developer](https://arc.dev/@rodrigobertotti)
 
-- :large_orange_diamond: [StackOverflow](https://stackoverflow.com/users/4508758) _Reputation: Over 5,200_
+- :large_orange_diamond: [StackOverflow](https://stackoverflow.com/users/4508758) _Reputation: Over 5,300_
 
 - :orange_book: [My Blog](https://wisetap.com/en/blog)
 
-- :star: GitHub [repositories](https://github.com/RodrigoBertotti?tab=repositories&q=&type=&language=&sort=stargazers) 
+- 👏 [Reddit users](https://www.reddit.com/user/WiseTapDotCom/submitted/) enjoy my projects
 
 **Technologies I'm working with:**
 
