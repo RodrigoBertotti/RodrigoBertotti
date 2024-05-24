@@ -30,7 +30,7 @@ _"Rodrigo is a very well rounded programmer, with great logic, organization and 
 
 - :orange_book: [My Blog](https://wisetap.com/en/blog)
 
-- 👏 [Reddit users](https://www.reddit.com/user/WiseTapDotCom/submitted/) enjoy my projects
+- 👏 [Reddit users](https://www.reddit.com/user/WiseTapDotCom/submitted?sort=top) enjoy my projects
 
 **Technologies I'm working with:**
 
