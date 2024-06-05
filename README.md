@@ -1,4 +1,4 @@
-I build Apps and servers for Startups and I contribute to open-source projects so other developers can do the same
+I build Backend Servers and Apps for Startups and I contribute to open-source projects so other developers can do the same
 
 📹 ⭐ **[Portfolio: Check videos of projects I've built](https://rodrigo.wisetap.com?from=github)** ⭐ 📹
 
