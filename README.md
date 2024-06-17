@@ -2,11 +2,11 @@ I build Backend Servers and Apps for Startups and I contribute to open-source pr
 
 📹 ⭐ **[Portfolio: Check videos of projects I've built](https://rodrigo.wisetap.com?from=github)** ⭐ 📹
 
-I'm an independent freelancer, I'm **not** associated with any agency, WiseTap.com is my own domain
+I'm an independent freelancer, I'm **not** associated with any agency, WiseTap.com is my own personal domain
 
 ---
 
-**Testimonials**
+**Testimonials ([Verified](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) by Upwork)**
 
 _“I had the pleasure of working with Rodrigo when we hired him at FotoFinish to build out our Android and iOS mobile applications. Rodrigo is an absolute dream to work with - he is very experienced and highly skilled in Dart/Flutter, takes initiative, is an excellent communicator. He is efficient and produces world class work. I recommend Rodrigo with no hesitation!”_
 
@@ -42,6 +42,6 @@ _"Rodrigo is a very well rounded programmer, with great logic, organization and 
   
 - :large_blue_diamond: Firebase 
 
-**Email:**
+**Contact:**
 
 - :envelope: rodrigo@wisetap.com
