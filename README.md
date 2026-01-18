@@ -10,11 +10,6 @@ _"Rodrigo is a very well rounded programmer, with great logic, organization and 
 
 > [Eduardo's testimonial](https://www.upwork.com/freelancers/~01b0a09c2144c05b24) | Co-Founder of vets.com.br
 
-
-**Portfolio:**
-
-[Check freelancer projects I've built here](https://rodrigo.wisetap.com?from=github)
-
 **Achievements:**
 
 - :star: **Awesome GitHub [repositories](https://github.com/RodrigoBertotti?tab=repositories&q=&type=&language=&sort=stargazers)** :star:
